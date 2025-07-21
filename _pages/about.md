@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 216 South Kedzie Hall, East Lansing, MI 48824
+subtitle: 
 
 profile:
   align: left
