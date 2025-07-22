@@ -24,8 +24,7 @@ Abstract content here
 
 ## Working Papers
 
-- **"How Do Poorly Ratified International Human Rights Treaties Protect Victims?**  
-  Case of the Migrant Workers Convention in a Non-member State.
+- **"How Do Poorly Ratified International Human Rights Treaties Protect Victims? - Case of the Migrant Workers Convention in a Non-member State.**
 
 - **"Evolving Human Rights: Interpretation Over Time in the UN Treaty Bodies."**
 
