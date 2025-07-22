@@ -17,9 +17,7 @@ _Conditionally Accepted at International Interactions_
 
 <details>
 <summary>Abstract</summary>
-
 Abstract content here
-
 </details>
 
 ---
