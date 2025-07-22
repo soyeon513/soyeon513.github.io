@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Soyeon
+first_name: Soyeon Park
 middle_name: #
-last_name: Park
+last_name: #
 contact_note: >
   <img src="/assets/img/address_icon.png" width="20"> 216 South Kedzie Hall, East Lansing, MI 48824
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
