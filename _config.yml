@@ -7,7 +7,7 @@ first_name: Soyeon
 middle_name: #
 last_name: Park
 contact_note: >
-  <img src="/assets/img/myicon.png" width="20"> 216 South Kedzie Hall, East Lansing, MI 48824
+  <img src="/assets/img/address_icon.png" width="20"> 216 South Kedzie Hall, East Lansing, MI 48824
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
