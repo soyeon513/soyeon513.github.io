@@ -2,7 +2,6 @@
 layout: page
 permalink: /research/
 title: Research
-description: Materials for peer-reviewed publications. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
