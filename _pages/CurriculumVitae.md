@@ -2,7 +2,6 @@
 layout: page
 permalink: /CurriculumVitae/
 title: CV
-redirect: /assets/pdf/Park_CV_July2025.pdf
 ---
 
 <meta http-equiv="refresh" content="0; url=/assets/pdf/Park_CV_July2025.pdf">
