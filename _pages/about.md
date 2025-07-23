@@ -28,4 +28,4 @@ Welcome! I am a Ph.D. Candidate in the Department of Political Science at [Michi
 
 My dissertation examines the overlapping and evolving features of UN human rights treaties and their treaty bodies, as well as their interactions with human rights victims, advocates, and defenders. My research has been supported by the MSU Center for Gender in Global Context. 
 
-I earned M.A. degrees in Political Science from Michigan State University and Korea University in South Korea, and a B.A. in Global Korean Studies and Political Science from Sogang University in South Korea, where I graduated summa cum laude.
+I hold M.A. degrees in Political Science from Michigan State University and Korea University, and a B.A. in Global Korean Studies and Political Science from Sogang University, where I graduated *summa cum laude*.
