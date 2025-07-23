@@ -16,7 +16,7 @@ _Conditionally Accepted at International Interactions_
 
 <details>
 <summary>Abstract</summary>
-Abstract content here
+Under what conditions are international election observers more likely to improve election quality? Existing research has resulted in mixed findings about the effects of international observers on election quality. This study addresses a gap in the current literature by considering the role of domestic counterparts in election monitoring. By drawing on the insight that election monitoring shares common features with the naming and shaming strategies employed by transnational advocacy networks (TANs), I argue that compared to international observers alone, the presence of both international and domestic election monitors will be associated with increased overall election quality and decreased election fraud. Using a dataset of parliamentary and presidential elections in 110 countries from 1989 to 2015, I find support for the hypotheses. Specifically, my findings indicate that the presence of both international and domestic observers is associated with a reduction in both blatant and covert forms of election fraud, whereas the presence of only international observers is not associated with decreased election fraud. The findings provide insight into the mechanism by which international observers have effects on election quality and suggest broader implications on how international factors interact with and influence domestic politics.
 </details>
 
 ---
