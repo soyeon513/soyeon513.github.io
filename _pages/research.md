@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-## Peer-Reviewed Publications
+## Peer-Reviewed Publication
 
 - **"When International Meets Domestic: The Interactive Effect of Domestic and International Election Observers"**  
 _Conditionally Accepted at International Interactions_
