@@ -9,7 +9,7 @@ nav_order: 6
 ## Peer-Reviewed Publication
 
 - **"When International Meets Domestic: The Interactive Effect of Domestic and International Election Observers"**  
-_Conditionally Accepted at International Interactions_
+_International Interactions_, forthcoming.
 
 🏆 Winner of the *2024 PLS Best Graduate Paper Award*, Department of Political Science, Michigan State University  
 🏆 Winner of the *2024-25 Graduate Student Research Award*, College of Social Science, Michigan State University
