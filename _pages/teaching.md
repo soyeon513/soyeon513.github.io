@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-## Co-Instructor    
+## Lead Instructor    
 - *Sports and the Social Sciences* (with Dr. Corwin Smidt) — Summer 2024, Summer 2025
 
 ## Teaching Assistant  
