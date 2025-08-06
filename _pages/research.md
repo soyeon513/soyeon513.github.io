@@ -12,7 +12,7 @@ nav_order: 6
 _International Interactions_, forthcoming.
 
 🏆 Winner of the *2024 PLS Best Graduate Paper Award*, Department of Political Science, Michigan State University  
-🏆 Winner of the *2024-25 Graduate Student Research Award*, College of Social Science, Michigan State University
+🏆 Winner of the *2025 Graduate Student Research Award*, College of Social Science, Michigan State University
 
 <details>
 <summary>Abstract</summary>
