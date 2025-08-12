@@ -24,10 +24,10 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a Ph.D. Candidate in the Department of Political Science at [Michigan State University](https://polisci.msu.edu/index.html). I study international relations, international law and organizations, with a focus on human rights.
+Welcome! I am a Ph.D. Candidate in the Department of Political Science at [Michigan State University](https://polisci.msu.edu/index.html). I study international relations, international law and organizations, with a focus on human rights. *I am on the 2025–2026 academic job market.*
 
-My dissertation examines the overlapping and evolving features of UN human rights treaties and their treaty bodies, as well as their interactions with human rights victims, advocates, and defenders. This project has been supported by the MSU Center for Gender in Global Context.
+My dissertation examines the overlapping and evolving features of UN human rights treaties and their treaty bodies, as well as their interactions with victims and advocates. This project has been supported by the MSU Center for Gender in Global Context.
 
-My research is forthcoming in _International Interactions_.
+In other work, I explore the interaction between international and domestic politics, with a focus on the role of non-state actors. My research is forthcoming in _International Interactions_.
 
 I hold M.A. degrees in Political Science from Michigan State University and Korea University, and a B.A. in Global Korean Studies and Political Science from Sogang University, where I graduated *summa cum laude*.
