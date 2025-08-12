@@ -24,7 +24,7 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a Ph.D. Candidate in the Department of Political Science at [Michigan State University](https://polisci.msu.edu/index.html). I study international relations, international law and organizations, with a focus on human rights. *I am on the 2025–2026 academic job market.*
+Welcome! I am a Ph.D. Candidate in the Department of Political Science at [Michigan State University](https://polisci.msu.edu/index.html). I study international relations, international law and organizations, with a focus on human rights. **I am on the 2025–2026 job market.**
 
 My dissertation examines the overlapping and evolving features of UN human rights treaties and their treaty bodies, as well as their interactions with victims and advocates. This project has been supported by the MSU Center for Gender in Global Context.
 
