@@ -4,7 +4,6 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 6
-class: research-page
 ---
 
 ## Peer-Reviewed Publication
