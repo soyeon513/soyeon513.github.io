@@ -4,12 +4,13 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 6
+class: research-page
 ---
 
 ## Peer-Reviewed Publication
 
-- **"[When International Meets Domestic: The Interactive Effect of Domestic and International Election Observers](https://doi.org/10.1080/03050629.2025.2545319)"**  
-_International Interactions_ 2025, 1-31.
+- "[When International Meets Domestic: The Interactive Effect of Domestic and International Election Observers](https://doi.org/10.1080/03050629.2025.2545319)" 
+_International Interactions_ September (2025): 1-31.
 
 🏆 Winner of the *2024 PLS Best Graduate Paper Award*, Department of Political Science, Michigan State University  
 🏆 Winner of the *2025 Graduate Student Research Award*, College of Social Science, Michigan State University
@@ -23,12 +24,12 @@ Under what conditions are international election observers more likely to improv
 
 ## Working Papers
 
-- **"Evolving Human Rights: Interpretation Over Time in the UN Treaty Bodies."**
+- "Evolving Human Rights: Interpretation Over Time in the UN Treaty Bodies."
 
-- **"How Do Poorly Ratified International Human Rights Treaties Protect Victims? - Case of the Migrant Workers Convention in a Non-member State."**
+- "How Do Poorly Ratified International Human Rights Treaties Protect Victims? - Case of the Migrant Workers Convention in a Non-member State."
 
 ---
 
 ## Work in Progress
 
-- **"Selecting Justice: The Strategic Forum Behavior of Human Rights Victims under UN Treaties."**
+- "Selecting Justice: The Strategic Forum Behavior of Human Rights Victims under UN Treaties."
