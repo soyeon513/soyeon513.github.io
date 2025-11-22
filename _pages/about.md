@@ -26,7 +26,7 @@ latest_posts:
 
 Welcome! I am a Ph.D. Candidate in the Department of Political Science at [Michigan State University](https://polisci.msu.edu/index.html). I study International Relations, international law and organizations, with a focus on human rights. **I am on the 2025–2026 job market.**
 
-My dissertation examines the evolving and overlapping features of UN human rights treaties and their treaty bodies, as well as their interactions with victims and advocates. This project has been supported by the National Science Foundation’s Law and Science Dissertation Grant and MSU Center for Gender in Global Context.
+My dissertation examines the evolving and overlapping features of UN human rights treaties and their treaty bodies, as well as their interactions with victims and advocates. This project has been supported by the MSU Center for Gender in Global Context.
 
 In other work, I explore the interaction between international and domestic politics, focusing on the role of non-state actors. My research has been published in _International Interactions_.
 
