@@ -31,3 +31,6 @@ Under what conditions are international election observers more likely to improv
 ## Work in Progress
 
 - "Selecting Justice: The Strategic Forum Behavior of Human Rights Victims under UN Treaties."
+
+- "Beyond Original Provisions: Interpretive Change and the Effects of Treaties."
+
