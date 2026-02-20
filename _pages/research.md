@@ -24,7 +24,7 @@ Under what conditions are international election observers more likely to improv
 
 - "Evolving Human Rights: Interpretation Over Time in the UN Treaty Bodies."
 
-- "How Do Poorly Ratified International Human Rights Treaties Protect Victims? - Case of the Migrant Workers Convention in a Non-member State."
+- "How Do Poorly Ratified International Human Rights Treaties Protect Victims?"
 
 ---
 
