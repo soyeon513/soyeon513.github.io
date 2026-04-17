@@ -7,11 +7,11 @@ nav_order: 6
 ---
 
 ## Lead Instructor    
-- *Sports and the Social Sciences* (with Dr. Corwin Smidt) — Summer 2024, Summer 2025
+- *Sports and the Social Sciences* (with Dr. Corwin Smidt) — Summers 2024, 2025, 2026
 
 ## Teaching Assistant  
 - *Sports and the Social Sciences* (with Dr. Corwin Smidt) — Summer 2023  
-- *Politics of the UN and International Organizations* (with Dr. Cristina Bodea) — Fall 2022  
+- *Politics of the UN and International Organizations* (with Dr. Cristina Bodea) — Fall 2022, Spring 2026
 - *Introduction to Methods of Political Analysis* (with Dr. Andrew Kerner) — Summer 2022  
 - *Introduction to International Relations* (with Dr. Andrew Kerner) — Fall 2021, Spring 2022, Fall 2025
 
