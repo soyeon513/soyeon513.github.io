@@ -24,13 +24,15 @@ Under what conditions are international election observers more likely to improv
 
 - "Evolving Human Rights: Interpretation Over Time in the UN Treaty Bodies."
 
+- "Selecting Justice: The Strategic Forum Behavior of Human Rights Victims under UN Treaties."
+
 - "How Do Poorly Ratified International Human Rights Treaties Protect Victims?"
 
 ---
 
-## Work in Progress
+## Works in Progress
 
-- "Selecting Justice: The Strategic Forum Behavior of Human Rights Victims under UN Treaties."
+- "Who Gets Heard? A Network Analysis of NGOs’ Impact on Global Human Rights Governance" (with Shanshan Lian)
 
 - "Beyond Original Provisions: Interpretive Change and the Effects of Treaties."
 
