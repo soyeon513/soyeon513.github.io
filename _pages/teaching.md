@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 ## Lead Instructor    
-- *Sports and the Social Sciences* (with Dr. Corwin Smidt) — Summers 2024, 2025, 2026
+- *Sports and the Social Sciences* (with Dr. Corwin Smidt) — Summers 2024-2026
 
 ## Teaching Assistant  
 - *Sports and the Social Sciences* (with Dr. Corwin Smidt) — Summer 2023  
