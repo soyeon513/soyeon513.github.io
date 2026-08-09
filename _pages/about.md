@@ -26,8 +26,8 @@ latest_posts:
 
 Welcome! I am a Ph.D. Candidate in the Department of Political Science at [Michigan State University](https://polisci.msu.edu/index.html). I study International Relations, international law and organizations, with a focus on human rights. **I am on the academic job market.**
 
-My dissertation examines the evolving and overlapping features of UN human rights treaties and their treaty bodies, as well as their interactions with victims and advocates. My research has been supported by the MSU Center for Gender in Global Context, the National Science Foundation's Law and Science Dissertation Grant, and the Institute for Humane Studies.
+My research examines how the design of international institutions and the participation of non-state actors shape the development and effects of international norms. In my dissertation, I examine institutional overlap, changes in treaty interpretation, and how victims and advocates both respond to and contribute to institutional change, focusing on United Nations human rights treaties. I combine original data collection with computational text analysis, statistical methods, interviews, fieldwork, and comparative case studies. In other work, I study when international institutions influence domestic politics and how that influence depends on domestic and transnational actors. My ongoing work examines civil society advocacy in international institutions and the effects of international treaties beyond formal ratification. My research has been published in _International Interactions_.
 
-In other work, I explore the interaction between international and domestic politics, focusing on the role of non-state actors. My research has been published in _International Interactions_.
+My research has been supported by the National Science Foundation's Law and Science Dissertation Grant, the Institute for Humane Studies, and the MSU Center for Gender in Global Context.
 
 I hold M.A. degrees in Political Science from Michigan State University and Korea University, and a B.A. in Global Korean Studies and Political Science from Sogang University, where I graduated *summa cum laude*.
