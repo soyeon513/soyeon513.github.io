@@ -24,7 +24,7 @@ Under what conditions are international election observers more likely to improv
 
 - "Evolving Human Rights: Interpretation of UN Treaties Over Time."
 
-- "Selecting Justice: Strategic Forum Choice under UN Human Rights Treaty Bodies."
+- "Selecting Justice: Strategic Forum Choice among Overlapping Human Rights Institutions."
 
 - "How Do Poorly Ratified International Human Rights Treaties Protect Victims?"
 
