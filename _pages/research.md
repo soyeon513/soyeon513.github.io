@@ -22,7 +22,7 @@ Under what conditions are international election observers more likely to improv
 
 ## Working Papers
 
-- "Evolving Human Rights: Interpretation of UN Treaties Over Time."
+- "Evolving Human Rights: The Politics of Human Rights Treaty Interpretation."
 
 - "Selecting Justice: Strategic Forum Choice among Overlapping Human Rights Institutions."
 
