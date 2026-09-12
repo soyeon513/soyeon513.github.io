@@ -28,10 +28,6 @@ Under what conditions are international election observers more likely to improv
 
 - "How Do Poorly Ratified International Human Rights Treaties Protect Victims?"
 
----
-
-## Works in Progress
-
 - "Who Gets Heard? A Network Analysis of NGOs’ Impact on Global Human Rights Governance" (with Shanshan Lian)
 
 - "Beyond Original Provisions: Interpretive Change and the Effects of Treaties."
